@@ -308,6 +308,10 @@ text.style.maxWidth = '700px';
 text.style.margin = '80px auto';
 text.style.lineHeight = '1.6';
 text.style.fontSize = '13px';
+text.style.maxHeight = '70vh';
+text.style.overflowY = 'auto';
+text.style.paddingRight = '10px';
+
 
 text.innerHTML = `
 <p>
