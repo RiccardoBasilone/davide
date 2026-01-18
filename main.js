@@ -315,6 +315,12 @@ text.style.paddingRight = '10px';
 
 text.innerHTML = `
 
+<p>
+Più di tutto, più di ogni cosa, abbiamo caro il tempo. vogliamo averne tanto da dare a chi amiamo, e vogliamo averne tanto per noi.
+Adesso, per tre mesi, la vita ti ha messo in una posizione da dare tempo a te stesso. 
+Non devi preoccuparti per noi, Da. Questi mesi ci cambieranno ma non cambieranno l'affetto, il bene che ci vogliamo.
+Quello dipende solo dalle persone che siamo. 
+</p>
 
 <p>
 In questi tre mesi su questa pagina web crescerà qualcosa. 
